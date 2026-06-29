@@ -1,1 +1,2 @@
+telethon
 curl-cffi==0.13.0
