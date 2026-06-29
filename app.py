@@ -61,8 +61,6 @@
 # =============================================================================
 
 import json
-import telethon
-import aiohttp
 import random
 import re
 import time
