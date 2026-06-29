@@ -1,2 +1,3 @@
 telethon
+aiohttp
 curl-cffi==0.13.0
